@@ -1,4 +1,4 @@
-# firestore_upload_images
+# Firebase Images Upload
 
 A new Flutter project.
 
